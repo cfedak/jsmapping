@@ -27,7 +27,7 @@ requirejs.config({
 });
 requirejs(["mapgen-lib",
     "map",
-    "geom/Rectangle",
+    "geom/rectangle",
     "libs/rhill-voronoi-core",
     "libs/canvasStack",
     "libs/canvas2image",

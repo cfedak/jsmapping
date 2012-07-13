@@ -28,7 +28,7 @@ requirejs.config({
 });
 requirejs(["mapgen-lib",
     "map_pixel",
-    "geom/Rectangle",
+    "geom/rectangle",
     "libs/canvasStack",
     "libs/canvas2image",
     "libs/jquery-1.7.1.min",
