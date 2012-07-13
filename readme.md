@@ -1,4 +1,4 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# Javascript Procedural Mapping
 
 ## Quick start
 
