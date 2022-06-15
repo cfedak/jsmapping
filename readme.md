@@ -3,8 +3,8 @@
 ## Quick start
 
 Live demos:
-*  [Using Polygons](http://cfedak.github.com/jsmapping/index.html)
-*  [All Pixels, all the time](http://cfedak.github.com/jsmapping/index-pixelmap.html)
+*  [Using Polygons](http://cfedak.github.io/jsmapping/index.html)
+*  [All Pixels, all the time](http://cfedak.github.io/jsmapping/index-pixelmap.html)
 
 ## Features
 
